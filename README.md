@@ -1,7 +1,7 @@
 
-# Spacestream
+# fuboTV
 
-Spacestream is social media website based on firebase storage where users can post videos and stream videos posted by others,it is fully responsive built on top of chakra-ui
+fuboTV is a youtube video streaming platform which has all the necessesary filters  
 ##deployed url : https://fubotv.netlify.app/
 
 
